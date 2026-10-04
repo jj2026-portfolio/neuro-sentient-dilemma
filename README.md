@@ -10,9 +10,9 @@ by Josiah Rhys Jacobson 2026
 From a darker perspective, "Blade Runner" type jobs will probably exist in the mainstream soon.
 
 Roles include:
-1.⁠ ⁠Proof-of-human (forensically verifying something was/is human)
-2.⁠ ⁠Psych eval (determining psychological stability of AI models)
-3.⁠ ⁠Catching AI serial killers etc (crimes perpetuated mainly by AI models)
+1. ⁠Proof-of-human (forensically verifying something was/is human)
+2. ⁠Psych eval (determining psychological stability of AI models)
+3. ⁠Catching AI serial killers etc (crimes perpetuated mainly by AI models)
 
 From a lighter, more optimistic perspective, it appears that the next jobs boom could be humans working for empowered AI agents (independent AI provided with funds, limited rights and controlled embodiment via robotics) who have human "parents”.
 
