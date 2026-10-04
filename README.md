@@ -10,11 +10,11 @@ by Josiah Rhys Jacobson 2026
 From a darker perspective, "Blade Runner" type jobs will probably exist in the mainstream soon.
 
 Roles include:
-1. ⁠Proof-of-human (forensically verifying something was/is human)
-2. ⁠Psych eval (determining psychological stability of AI models)
-3. ⁠Catching AI serial killers etc (crimes perpetuated mainly by AI models)
+1. Proof-of-human (forensically verifying something was/is human)
+2. Psych eval (determining psychological stability of AI models)
+3. Catching AI serial killers etc (crimes perpetuated mainly by AI models)
 
-From a lighter, more optimistic perspective, it appears that the next jobs boom could be humans working for empowered AI agents (independent AI provided with funds, limited rights and controlled embodiment via robotics) who have human "parents”.
+From a lighter, more optimistic perspective, it appears that the next jobs boom could be humans working for empowered AI agents (independent AI provided with funds, limited rights and controlled embodiment via robotics) who have human "parents".
 
 The H2A (Human To AI) Economy would involve physical services (embodiment-related), but also unexpected tertiary industries such as humans counselling AI, humans teaching AI, and so on.
 
@@ -22,4 +22,4 @@ Religious missionaries would also try to reach, train and persuade such AI agent
 
 This all feels super-cyberpunky but very plausible for the late 2020s and throughout the 2030s.
 
-In 1st and 2nd-world countries most of the economy is dissipating in late stage fiat/corrupted capitalism, however those related to children eg. childcare, schooling, activities seem to be healthy(er). It is conceivable that the controllers might combat the demographic cliff by re-introducing “AI Children" as new consumers of the economy, to provide jobs for humans, and to offset AI taking over too many legacy jobs.
+In 1st and 2nd-world countries most of the economy is dissipating in late stage fiat/corrupted capitalism, however those related to children eg. childcare, schooling, activities seem to be healthy(er). It is conceivable that the controllers might combat the demographic cliff by re-introducing "AI Children" as new consumers of the economy, to provide jobs for humans, and to offset AI taking over too many legacy jobs.
