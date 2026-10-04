@@ -5,7 +5,7 @@
 by Josiah Rhys Jacobson 2026
 
 # Further Context
-![Contextual image from Blade Runner](VG.png)
+![Contextual image from Blade Runner - Leon undergoes Voight-Kampff test](VoightKampff.png)
 
 From a darker perspective, "Blade Runner" type jobs will probably exist in the mainstream soon.
 
